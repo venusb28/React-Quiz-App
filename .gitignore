@@ -1,0 +1,22 @@
+
+# Dependencies
+node_modules/
+
+# Build files
+dist/
+
+# Visual Studio temporary files
+.vs/
+.vscode/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+.env.local
+
+# Operating system files
+.DS_Store
+Thumbs.db
